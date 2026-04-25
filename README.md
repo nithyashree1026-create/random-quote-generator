@@ -42,3 +42,6 @@ A colorful and interactive web app that generates inspiring quotes based on diff
 This project is completed and deployed successfully.
 
 ## 📂 Project Structure
+
+## 📸 Screenshot
+![Project Screenshot](main.png)
