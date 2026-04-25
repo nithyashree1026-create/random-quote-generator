@@ -5,7 +5,7 @@ A colorful and interactive web app that generates inspiring quotes based on diff
 ---
 
 ## 🚀 Live Demo
-🔗 https://yourusername.github.io/random-quote-generator/
+🔗 https://random-quote-generator-6367bb.netlify.app
 
 ---
 
