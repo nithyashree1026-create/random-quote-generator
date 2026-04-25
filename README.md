@@ -50,3 +50,6 @@ This project is completed and deployed successfully.
 - Clean and responsive UI
 - Beginner-friendly JavaScript project
 - Deployed using Netlify
+
+## 🙋‍♀️ Author
+Made with ❤️ by Nithya
