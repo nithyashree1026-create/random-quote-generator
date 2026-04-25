@@ -38,5 +38,7 @@ A colorful and interactive web app that generates inspiring quotes based on diff
 - Quotable API  
 
 ---
+## 📌 Status
+This project is completed and deployed successfully.
 
 ## 📂 Project Structure
