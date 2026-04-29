@@ -1,4 +1,4 @@
-# ✨ Random Quote Generator
+## ✨ Random Quote Generator
 
 A colorful and interactive web app that generates inspiring quotes based on different moods and categories. Built using HTML, CSS, and JavaScript with advanced features.
 
@@ -52,4 +52,4 @@ This project is completed and deployed successfully.
 - Deployed using Netlify
 
 ## 🙋‍♀️ Author
-Made with ❤️ by Nithya
+Nithya
